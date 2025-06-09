@@ -8,6 +8,8 @@ About Me
 
 Tech Toolbox
 - Languages: Python, R, SQL, HTML, Java
+- Cloud Software: AWS, Google Cloud
+- Data Visualisation: Power BI, Tableau
 
 Education
 - Msc Data Science and Public Policy (Economics), UCL
