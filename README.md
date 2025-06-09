@@ -11,7 +11,11 @@ Tech Toolbox
 
 Education
 - Msc Data Science and Public Policy (Economics), UCL
-- BSc(Hons) Economics, University of Manchester
+- BSc (Hons) Economics, University of Manchester
+
+Professional Background
+- Quantitative Researcher (Data Analyst Functions), The New Black Film Collective
+- Investment Banking Analyst, Citibank
 <!--
 **devangini02/devangini02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
